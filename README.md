@@ -1,4 +1,4 @@
-Manuscript and Coding scripts Ph.D. Thesis: 
+Ph.D. thesis and Coding scripts: 
 
 Author: Zijie Lin
 
